@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
@@ -36,10 +37,15 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 =======
+=======
+>>>>>>> 9f1818d7164361a573139617daf401061799de1a
 ﻿using System.Windows;
 
 [assembly: ThemeInfo(
     ResourceDictionaryLocation.None,
     ResourceDictionaryLocation.SourceAssembly
 )]
+<<<<<<< HEAD
+>>>>>>> 9f1818d7164361a573139617daf401061799de1a
+=======
 >>>>>>> 9f1818d7164361a573139617daf401061799de1a
